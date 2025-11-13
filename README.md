@@ -1,2 +1,3 @@
 # Hackpad
 My first project through hackclub!!! I kinda feel like I missed out on a lot by learning about hackclub so late in highschool :(( but I'm coping by doing this.
+I'm mostly doing this for learn a bit about python, kicad, and making pcbs. Probably just gonna use it for macros and such but I do wanna add some lights that react to keys being pushed because I think it's cool :3
